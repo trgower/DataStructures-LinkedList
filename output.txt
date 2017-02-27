@@ -1,0 +1,22 @@
+----------UNSORTED ARRAY ELEMENTS----------
+9383, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+886, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+2777, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+6915, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+7793, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+8335, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+5386, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+492, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+6649, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+1421, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+----------UNSORTED LINKED LIST ELEMENTS----------
+9383, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+886, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+2777, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+6915, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+7793, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+8335, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+5386, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+492, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+6649, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+1421, John Doe, 123 Address Line, San Marcos, TX 78666, 4
